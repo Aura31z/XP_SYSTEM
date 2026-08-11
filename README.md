@@ -56,7 +56,7 @@ Here are some of the core system commands included in this module:
 
 ## 📞 Support
 
-If you encounter any issues, have questions, or want to see AURA in action, feel free to join our official support server: **3f.fs**.
+If you encounter any issues, have questions, or want to see AURA in action, feel free to join our official support server: **(https://discord.gg/EVdJGzky)**.
 
 ---
 *Crafted with ❤️ for the Discord community.*
