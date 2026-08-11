@@ -1,4 +1,4 @@
-# 🌟 AURA - Advanced System & Music Discord Bot
+# 🌟 AURA - Advanced System & Discord Bot
 
 Welcome to the official repository for **AURA**, a powerful, feature-rich Discord bot designed to elevate your server's experience. Built with Node.js and discord.js, AURA provides comprehensive system utilities, an interactive XP & Leveling engine, secure member verification, and high-quality music playback.
 
@@ -10,7 +10,6 @@ Welcome to the official repository for **AURA**, a powerful, feature-rich Discor
     *   Customizable level-up notifications and reward roles.
 *   🛡️ **Interactive Member Verification:** 
     *   Master control panel for secure server entry and automatic role assignment (`/verification`).
-*   🎵 **Music Utilities:** High-quality audio playback and intuitive queue management.
 *   💾 **Robust Database:** Powered by **MongoDB** and Mongoose for fast, reliable data storage and cross-server syncing.
 
 ## 📌 Available Commands
